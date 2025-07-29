@@ -1,0 +1,2 @@
+console.log("Create a faulty calculator This faulty calculator does following :")
+console.log("\n 1. It takes two number as input from the user \n 2. It perfomrs wrong operations as following \n + ----> - \n * ---> + \n - ----> / \n backward slash ----> ** \n  It performs wrong operation 10% of the times ")
